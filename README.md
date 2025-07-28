@@ -1,16 +1,28 @@
-## Hi there 👋
+👋 Hi, I'm Hoor
+🌱 Bioengineer in the Making | 🧠 AI for Health Enthusiast | 🔬 Research Assistant @ Vijay Lab
 
-<!--
-**hi2151/hi2151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+🎓 First-year Bioengineering student @ NYU Abu Dhabi, passionate about merging biology, engineering, and technology to improve health outcomes.
+🧪 Research Assistant @ Vijay Lab, working on bioprinting innovations that could shape the future of regenerative medicine.
+💻 Starting my journey in tech—currently diving into machine learning and large language models (LLMs) to understand their potential in medicine.
 
-Here are some ideas to get you started:
+🛠️ What I’m Learning
+Machine Learning for bioengineering applications
+Large Language Models (LLMs)
+Computational biology & tissue engineering
+Coding for healthcare solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Looking to collaborate on exciting projects in
+🧠 AI for Healthcare – leveraging machine learning for medical innovations
+🧬 Biotechnology – advancing solutions in tissue engineering and synthetic biology
+🖥️ Bioinformatics – turning biological data into actionable insights
+
+Beyond the Lab
+🏏 Love playing cricket
+📖 Enjoy reading feminist horror fiction
+🌿 Passionate about gardening and sustainable living
+
+🌟 Vision
+I dream of bridging biology and AI to build solutions that not only treat diseases but also enhance overall mental and physical health. Always curious, always building, and excited to collaborate with like-minded innovators.
+
+📫 Let’s connect!

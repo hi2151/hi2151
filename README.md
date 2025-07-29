@@ -1,14 +1,10 @@
-👋 Hi, I'm Hoor
-
+👋 Hi, I'm Hoor  
 🌱 Bioengineer in the Making | 🧠 AI for Health Enthusiast | 🔬 Research Assistant @ Vijay Lab
 
-🚀 About Me
-
-🎓 First-year Bioengineering student @ NYU Abu Dhabi, passionate about merging biology, engineering, and technology to improve health outcomes.
-
-🧪 Research Assistant @ Vijay Lab, working on bioprinting innovations that could shape the future of regenerative medicine.
-
-💻 Starting my journey in tech—currently diving into machine learning and large language models (LLMs) to understand their potential in medicine.
+🚀 About Me  
+🎓 First-year Bioengineering student @ NYU Abu Dhabi, passionate about merging biology, engineering, and technology to improve health outcomes.  
+🧪 Research Assistant @ Vijay Lab, working on bioprinting innovations that could shape the future of regenerative medicine.  
+💻 Starting my journey in tech—currently diving into machine learning and large language models (LLMs) to understand their potential in medicine.  
 
 
 🛠️ What I’m Learning

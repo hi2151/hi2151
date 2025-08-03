@@ -1,4 +1,3 @@
-👋 Hi, I'm Hoor  
 🌱 Bioengineer in the Making | 🧠 AI for Health Enthusiast | 🔬 Research Assistant @ Vijay Lab
 
 🚀 About Me  
